@@ -1,6 +1,33 @@
 # Let-s-Talk-Astrophysics
 National symposium on galactic dynamics and dark matter for grade 11 and 12 high school students. This workshop will teach the basics of python using a Jupyter Notebook and go through making a galactic rotation curve.
 
+
+## Overview
+
+**Date:**
+
+February 20 and 21, 2021, from 1:00 - 4:00 PM EST.
+
+**Organizers**
+
+* Simran Nerval
+
+* Jasmine Buddingh
+
+* Amanda Riggs
+
+* Yilda Boukhtouchen
+
+* Dilraj Ghuman
+
+* Karen Mac\'{\i}as C\'{a}rdenas
+
+* Nikhil Arora
+
+* Mark Richardson
+
+* Patrick Hatch
+
 # Schedule
 
 **Saturday:** 
