@@ -4,7 +4,9 @@ National symposium on galactic dynamics and dark matter for grade 11 and 12 high
 # Schedule
 
 **Saturday:** 
+
 1:00 - 1:10 PM: Introduction
+
 1:10 - 1:40 PM: Galaxy Talk
 1:40 - 1:55 PM: Break
 1:55 - 2:25 PM: Dark Matter Talk
