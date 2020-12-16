@@ -60,4 +60,4 @@ February 20 and 21, 2021, from 1:00 - 4:00 PM EST.
 
 3:10 - 3:50 PM: Workshop 3
 
-3:50 - 4:00 PM: Concluding Remarks 
+3:50 - 4:00 PM: Concluding Remarks ğ
