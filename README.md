@@ -1,6 +1,6 @@
 ![alt text](https://github.com/LTSQueens/Let-s-Talk-Astrophysics/blob/main/Organization/logo-cropped.png?raw=true)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LTSQueens/Let-s-Talk-Astrophysics/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LTSQueens/Let-s-Talk-Astrophysics/main)
 
 # Let's Talk Astrophysics
 
