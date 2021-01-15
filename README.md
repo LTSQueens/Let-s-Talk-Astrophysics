@@ -41,13 +41,13 @@ February 20 and 21, 2021, from 1:00 - 4:00 PM EST.
 
 1:00 - 1:10 PM: Introduction
 
-1:10 - 1:40 PM: Galaxy Talk (Dr. Karen Lee-Waddell)
+1:10 - 1:40 PM: Galaxy Talk (Dr. Karen Lee-Waddell, CSIRO)
 
 1:40 - 1:55 PM: Break
 
-1:55 - 2:25 PM: Dark Matter Talk (Prof. Nassim Bozorgnia)
+1:55 - 2:25 PM: Dark Matter Talk (Prof. Nassim Bozorgnia, YorkU)
 
-2:25 - 2:55 PM: Dark Eneregy/Cosmology Talk (Prof. Celia Escamilla-Rivera)
+2:25 - 2:55 PM: Dark Eneregy/Cosmology Talk (Prof. Celia Escamilla-Rivera, ICN-UNAM)
 
 2:55 - 3:10 PM: Break
 
