@@ -41,7 +41,7 @@ February 20 and 21, 2021, from 1:00 - 4:00 PM EST.
 
 1:00 - 1:10 PM: Introduction
 
-1:10 - 1:40 PM: Galaxy Talk (Dr. Karen Lee-Waddell, CSIRO)
+1:10 - 1:40 PM: Galaxy Talk (Dr. Karen Lee-Waddell, ICRAR & CSIRO)
 
 1:40 - 1:55 PM: Break
 
