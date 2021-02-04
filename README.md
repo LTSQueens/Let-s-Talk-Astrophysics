@@ -55,7 +55,7 @@ February 20 and 21, 2021, from 1:00 - 4:00 PM EST.
 
 **Sunday:**
 
-1:00 - 1:20 PM: Industry Talk (Tentaive)
+1:00 - 1:20 PM: Industry Talk (Dr. Sarah Gallagher, Canadian Space Agency)
 
 1:20 - 2:00 PM: Workshop 1
 
