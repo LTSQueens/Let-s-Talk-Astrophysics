@@ -4,4 +4,4 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - astropy
+  - scipy
