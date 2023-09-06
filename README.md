@@ -2,9 +2,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LTSQueens/Let-s-Talk-Astrophysics/main)
 
-# Let's Talk Astrophysics
+# [Let's Talk Astrophysics](https://www.queensu.ca/physics/ideas-initiative/lets-talk-astrophysics)
 
-National symposium on galactic dynamics and dark matter for grade 11 and 12 high school/CÉGEP students in Canada. This workshop will teach the basics of coding applications in astrophysics using a Python Jupyter Notebook and go through making a galactic rotation curve using real data from the GAIA mission from the European Space Agency (ESA) and the Nobeyama Radio Observatory (NRO) from the National Astronomical Observatory of Japan (NAOJ). (https://www.queensu.ca/physics/lta)
+National symposium on galactic dynamics and dark matter for grade 11 and 12 high school/CÉGEP students in Canada. This workshop will teach the basics of coding applications in astrophysics using a Python Jupyter Notebook and go through making a galactic rotation curve using real data from the GAIA mission from the European Space Agency (ESA) and the Nobeyama Radio Observatory (NRO) from the National Astronomical Observatory of Japan (NAOJ).
 
 
 ## Overview
